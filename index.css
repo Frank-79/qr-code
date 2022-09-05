@@ -1,0 +1,32 @@
+body{
+    margin-top: 70px;
+    background-color :hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+}
+main{
+    background-color: white;
+    height: 450px;
+    width: 350px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+img{
+    height: 180px;
+    width: 180px;
+    display: flex;
+    justify-content: center;
+    margin-left: 70px;
+    margin-top: 10px;
+    border-radius: 10px;
+    
+}
+.me{
+    margin-left: 30px;
+    color:hsl(218, 44%, 22%) ;
+}
+.you{
+    margin-left: 30px;
+    color: hsl(220, 15%, 55%) ; 
+}
